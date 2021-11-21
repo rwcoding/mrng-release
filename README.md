@@ -31,7 +31,6 @@
 
 ![](img.png)
 
-### 一致喜恶意模式
 
 ## 关联工程
 + `mrng-api` 管理端的 API 实现 (golang)  
